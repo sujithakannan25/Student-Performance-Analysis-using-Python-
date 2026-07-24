@@ -1,0 +1,301 @@
+student_id,name,gender,section,parent_education,study_hours,attendance,math_score,science_score,english_score,average_score,result
+1,Deepa Das,Male,A,Graduate,2.9,100.0,86,82,78,82.0,Pass
+2,Priya Menon,Female,A,Post Graduate,1.7,85.8,75,70,61,68.7,Pass
+3,Kavya Iyer,Male,C,Graduate,6.1,81.7,100,98,90,96.0,Pass
+4,Nisha Raj,Male,B,High School,3.9,100.0,88,94,96,92.7,Pass
+5,Pooja Iyer,Male,B,High School,4.3,92.1,92,88,84,88.0,Pass
+6,Manoj Reddy,Female,A,High School,5.6,77.6,100,100,84,94.7,Pass
+7,Priya Pillai,Male,B,Graduate,4.0,66.9,87,80,78,81.7,Pass
+8,Anitha Raj,Male,B,High School,4.8,51.5,96,73,69,79.3,Pass
+9,Lakshmi Pillai,Male,C,Graduate,5.5,74.7,85,92,92,89.7,Pass
+10,Pooja Raj,Female,C,Graduate,5.0,65.8,83,79,84,82.0,Pass
+11,Nisha Menon,Male,C,Graduate,4.5,100.0,81,94,88,87.7,Pass
+12,Divya Rao,Male,C,Graduate,7.2,72.2,100,100,95,98.3,Pass
+13,Lakshmi Kumar,Male,A,Graduate,6.2,71.9,94,88,100,94.0,Pass
+14,Manoj Rao,Male,C,Graduate,3.8,61.7,79,81,80,80.0,Pass
+15,Ajay Das,Female,B,High School,2.4,76.8,68,67,88,74.3,Pass
+16,Nisha Reddy,Male,A,Graduate,5.1,72.0,87,91,87,88.3,Pass
+17,Meena Kumar,Female,B,Graduate,4.4,100.0,100,100,76,92.0,Pass
+18,Nisha Menon,Female,B,Graduate,7.1,82.0,100,88,94,94.0,Pass
+19,Ravi Reddy,Female,B,Post Graduate,5.8,79.9,95,87,75,85.7,Pass
+20,Suresh Rao,Male,C,High School,5.4,78.4,99,90,90,93.0,Pass
+21,Sanjay Rao,Female,C,Graduate,4.0,89.4,94,90,88,90.7,Pass
+22,Arun Sharma,Male,A,Post Graduate,2.4,74.6,69,71,62,67.3,Pass
+23,Ravi Raj,Female,A,Graduate,3.6,88.0,73,84,74,77.0,Pass
+24,Lakshmi Iyer,Female,C,Graduate,4.9,99.4,89,100,91,93.3,Pass
+25,Priya Raj,Female,B,Graduate,0.9,85.5,55,56,55,55.3,Pass
+26,Manoj Sharma,Female,A,Graduate,6.2,77.0,100,100,80,93.3,Pass
+27,Naveen Sharma,Female,C,Graduate,7.7,68.6,100,100,100,100.0,Pass
+28,Ajay Reddy,Female,C,High School,0.5,76.7,73,65,61,66.3,Pass
+29,Swathi Menon,Female,C,High School,1.5,86.8,54,87,64,68.3,Pass
+30,Lakshmi Sharma,Female,B,Graduate,4.4,61.6,90,87,62,79.7,Pass
+31,Suresh Kumar,Male,C,Post Graduate,3.0,90.0,99,84,84,89.0,Pass
+32,Arun Rao,Male,C,Graduate,4.5,82.5,97,100,77,91.3,Pass
+33,Deepa Pillai,Female,C,High School,3.9,78.2,66,92,93,83.7,Pass
+34,Sanjay Nair,Female,C,Graduate,2.2,72.1,85,64,74,74.3,Pass
+35,Arun Menon,Female,A,Graduate,6.3,74.3,98,100,83,93.7,Pass
+36,Lakshmi Kumar,Male,A,High School,4.8,87.2,90,78,80,82.7,Pass
+37,Priya Rao,Female,C,Graduate,3.0,78.5,81,73,87,80.3,Pass
+38,Ravi Nair,Male,B,Graduate,6.7,74.0,92,100,91,94.3,Pass
+39,Kavya Sharma,Male,A,Graduate,3.1,85.6,80,76,72,76.0,Pass
+40,Ganesh Nair,Male,C,Graduate,1.8,86.1,85,74,70,76.3,Pass
+41,Deepa Kumar,Male,A,High School,4.3,65.0,87,82,72,80.3,Pass
+42,Suresh Reddy,Male,A,High School,4.6,86.9,91,95,86,90.7,Pass
+43,Swathi Pillai,Female,B,High School,5.0,100.0,98,94,90,94.0,Pass
+44,Ravi Sharma,Female,C,Post Graduate,5.3,85.6,85,87,95,89.0,Pass
+45,Manoj Raj,Female,C,Post Graduate,4.9,59.6,83,96,75,84.7,Pass
+46,Pooja Sharma,Female,B,Graduate,4.9,82.1,78,87,78,81.0,Pass
+47,Lakshmi Rao,Female,B,Post Graduate,3.0,58.0,80,77,65,74.0,Pass
+48,Vikram Rao,Male,C,Graduate,2.8,100.0,65,94,76,78.3,Pass
+49,Naveen Raj,Female,C,Graduate,5.3,100.0,100,100,91,97.0,Pass
+50,Suresh Iyer,Female,B,Graduate,4.4,72.0,93,78,84,85.0,Pass
+51,Divya Rao,Male,A,High School,5.5,53.1,97,85,84,88.7,Pass
+52,Ravi Reddy,Female,A,High School,0.9,69.5,62,69,70,67.0,Pass
+53,Sanjay Reddy,Male,B,Graduate,3.1,77.8,85,80,67,77.3,Pass
+54,Arun Iyer,Female,A,Graduate,7.4,58.9,99,91,94,94.7,Pass
+55,Naveen Pillai,Male,B,High School,5.0,79.2,81,96,90,89.0,Pass
+56,Naveen Raj,Female,A,Post Graduate,4.5,77.7,99,93,76,89.3,Pass
+57,Ravi Menon,Female,A,Post Graduate,5.3,81.5,93,91,85,89.7,Pass
+58,Anitha Pillai,Male,C,High School,8.0,82.8,100,100,87,95.7,Pass
+59,Priya Raj,Male,C,Post Graduate,7.6,68.4,100,100,100,100.0,Pass
+60,Karthik Reddy,Male,A,Post Graduate,1.2,69.8,60,62,60,60.7,Pass
+61,Lakshmi Nair,Male,A,Post Graduate,1.8,80.5,74,60,74,69.3,Pass
+62,Anitha Reddy,Male,C,High School,1.1,72.4,82,72,64,72.7,Pass
+63,Arun Iyer,Male,C,Graduate,2.7,90.9,83,85,74,80.7,Pass
+64,Sanjay Sharma,Male,C,Graduate,4.1,80.4,87,90,67,81.3,Pass
+65,Naveen Rao,Male,B,Graduate,4.4,100.0,100,100,76,92.0,Pass
+66,Ajay Reddy,Female,A,Post Graduate,1.2,89.8,77,77,47,67.0,Pass
+67,Deepa Nair,Female,C,Graduate,0.6,93.2,68,72,61,67.0,Pass
+68,Lakshmi Nair,Male,A,Post Graduate,2.6,81.6,72,58,91,73.7,Pass
+69,Deepa Nair,Female,B,Post Graduate,5.6,81.9,98,100,78,92.0,Pass
+70,Meena Menon,Female,B,Post Graduate,6.0,100.0,100,100,75,91.7,Pass
+71,Divya Reddy,Female,C,Graduate,7.1,75.5,100,100,100,100.0,Pass
+72,Ajay Iyer,Female,B,High School,3.9,86.6,96,88,100,94.7,Pass
+73,Pooja Das,Male,A,Graduate,5.5,76.8,89,99,89,92.3,Pass
+74,Karthik Rao,Female,C,Post Graduate,5.8,76.8,99,100,90,96.3,Pass
+75,Karthik Reddy,Male,A,High School,3.1,66.0,82,80,68,76.7,Pass
+76,Ajay Reddy,Female,A,Graduate,4.7,71.1,81,90,66,79.0,Pass
+77,Kavya Menon,Female,B,High School,5.2,68.9,82,91,71,81.3,Pass
+78,Sanjay Rao,Female,B,Graduate,2.4,87.1,75,49,71,65.0,Pass
+79,Priya Das,Male,B,Post Graduate,7.0,92.5,100,100,95,98.3,Pass
+80,Meena Kumar,Female,B,Post Graduate,3.9,78.9,93,76,78,82.3,Pass
+81,Kavya Pillai,Male,B,High School,4.2,82.8,79,96,88,87.7,Pass
+82,Swathi Kumar,Female,C,Post Graduate,2.3,78.2,73,78,65,72.0,Pass
+83,Anitha Das,Male,A,Graduate,2.6,70.3,93,69,76,79.3,Pass
+84,Lakshmi Reddy,Female,A,Graduate,0.5,90.3,68,62,60,63.3,Pass
+85,Deepa Rao,Male,A,Graduate,4.1,87.8,92,84,90,88.7,Pass
+86,Divya Nair,Male,A,Graduate,8.5,57.3,100,100,97,99.0,Pass
+87,Meena Pillai,Female,B,Graduate,2.2,76.6,68,60,65,64.3,Pass
+88,Arun Pillai,Male,A,Graduate,9.4,69.4,100,100,100,100.0,Pass
+89,Vikram Iyer,Female,C,High School,6.5,75.3,100,100,89,96.3,Pass
+90,Lakshmi Nair,Female,C,Graduate,3.1,72.0,78,85,73,78.7,Pass
+91,Priya Pillai,Female,A,Graduate,4.0,79.4,71,80,85,78.7,Pass
+92,Priya Sharma,Female,A,High School,3.8,76.0,85,84,76,81.7,Pass
+93,Ravi Menon,Female,C,Graduate,7.1,75.8,100,100,91,97.0,Pass
+94,Arun Pillai,Female,C,Graduate,4.9,93.3,87,86,79,84.0,Pass
+95,Anitha Reddy,Female,B,Graduate,6.1,86.7,100,100,97,99.0,Pass
+96,Priya Menon,Female,C,Post Graduate,4.6,71.6,93,81,83,85.7,Pass
+97,Karthik Rao,Female,B,Post Graduate,3.8,73.3,86,94,67,82.3,Pass
+98,Divya Raj,Female,B,Graduate,4.6,85.9,96,100,91,95.7,Pass
+99,Naveen Pillai,Female,B,Graduate,3.3,85.9,80,74,68,74.0,Pass
+100,Lakshmi Das,Male,B,High School,1.4,72.8,56,69,72,65.7,Pass
+101,Priya Das,Male,B,Graduate,5.5,77.2,90,100,92,94.0,Pass
+102,Anitha Rao,Female,A,Graduate,1.3,100.0,68,80,75,74.3,Pass
+103,Suresh Menon,Female,C,High School,3.5,73.0,79,80,72,77.0,Pass
+104,Kavya Raj,Female,B,Graduate,3.2,100.0,94,96,86,92.0,Pass
+105,Sanjay Reddy,Female,C,Graduate,5.2,93.2,86,89,98,91.0,Pass
+106,Ravi Kumar,Female,C,Post Graduate,6.8,100.0,100,100,100,100.0,Pass
+107,Lakshmi Pillai,Female,B,Post Graduate,6.2,72.5,88,90,83,87.0,Pass
+108,Deepa Rao,Female,A,Graduate,5.2,78.0,86,98,87,90.3,Pass
+109,Deepa Sharma,Female,B,Graduate,2.9,74.6,80,71,81,77.3,Pass
+110,Sanjay Nair,Male,A,High School,3.7,93.5,77,85,99,87.0,Pass
+111,Anitha Menon,Female,C,Post Graduate,3.4,73.2,84,84,72,80.0,Pass
+112,Priya Kumar,Male,A,Post Graduate,3.2,88.8,71,88,85,81.3,Pass
+113,Ajay Iyer,Female,A,High School,3.3,88.1,88,75,87,83.3,Pass
+114,Meena Menon,Female,A,Graduate,3.2,79.4,67,88,68,74.3,Pass
+115,Manoj Rao,Male,C,High School,3.1,95.6,78,87,94,86.3,Pass
+116,Pooja Raj,Female,C,High School,5.7,81.3,100,87,80,89.0,Pass
+117,Ajay Raj,Male,A,High School,2.1,90.0,89,65,79,77.7,Pass
+118,Suresh Iyer,Female,A,High School,2.7,74.1,71,74,73,72.7,Pass
+119,Kavya Rao,Female,B,Post Graduate,1.1,71.3,66,70,62,66.0,Pass
+120,Sanjay Menon,Male,A,Graduate,6.5,88.8,100,100,100,100.0,Pass
+121,Arun Raj,Female,B,Graduate,2.6,85.2,82,80,71,77.7,Pass
+122,Meena Raj,Male,A,Graduate,5.2,82.9,91,94,84,89.7,Pass
+123,Manoj Das,Female,B,Post Graduate,4.9,75.9,83,93,93,89.7,Pass
+124,Pooja Nair,Male,C,Post Graduate,6.4,98.6,100,99,100,99.7,Pass
+125,Meena Reddy,Male,A,High School,3.6,66.6,87,91,83,87.0,Pass
+126,Nisha Das,Female,A,Graduate,2.3,65.9,83,83,67,77.7,Pass
+127,Pooja Sharma,Female,A,High School,1.2,91.3,56,73,71,66.7,Pass
+128,Meena Menon,Male,A,Graduate,0.5,90.3,55,66,79,66.7,Pass
+129,Lakshmi Kumar,Female,B,High School,4.3,84.2,97,84,75,85.3,Pass
+130,Ajay Raj,Female,A,Graduate,5.4,76.5,80,97,85,87.3,Pass
+131,Sanjay Reddy,Female,C,Graduate,4.8,86.0,100,86,92,92.7,Pass
+132,Ravi Iyer,Male,C,High School,1.2,100.0,71,55,69,65.0,Pass
+133,Karthik Menon,Male,A,High School,5.9,100.0,99,81,91,90.3,Pass
+134,Lakshmi Nair,Male,C,Graduate,2.7,60.1,72,64,72,69.3,Pass
+135,Nisha Sharma,Male,A,High School,2.4,75.0,62,74,80,72.0,Pass
+136,Meena Reddy,Male,A,Graduate,2.7,74.2,81,77,70,76.0,Pass
+137,Nisha Das,Male,C,High School,4.1,99.5,100,87,84,90.3,Pass
+138,Meena Iyer,Male,A,High School,1.3,50.2,65,59,51,58.3,Pass
+139,Lakshmi Sharma,Male,C,Graduate,3.9,86.2,84,84,78,82.0,Pass
+140,Divya Kumar,Male,B,Graduate,4.8,76.9,76,81,91,82.7,Pass
+141,Sanjay Nair,Female,A,High School,6.0,99.7,91,100,96,95.7,Pass
+142,Swathi Raj,Male,B,High School,4.3,98.0,81,98,80,86.3,Pass
+143,Divya Pillai,Female,C,High School,1.6,84.4,70,63,70,67.7,Pass
+144,Anitha Das,Female,B,Post Graduate,4.3,61.0,82,73,84,79.7,Pass
+145,Anitha Iyer,Female,B,Graduate,2.1,73.1,77,62,63,67.3,Pass
+146,Manoj Kumar,Male,C,Graduate,2.0,74.4,55,54,57,55.3,Pass
+147,Sanjay Pillai,Male,B,Post Graduate,1.5,64.1,74,60,79,71.0,Pass
+148,Ajay Iyer,Male,B,High School,0.6,93.9,72,72,55,66.3,Pass
+149,Nisha Reddy,Male,C,Post Graduate,3.0,62.6,70,74,66,70.0,Pass
+150,Lakshmi Rao,Female,B,Graduate,6.0,100.0,94,100,98,97.3,Pass
+151,Suresh Das,Male,C,High School,8.1,100.0,100,100,100,100.0,Pass
+152,Priya Nair,Male,B,Graduate,3.0,75.4,74,73,72,73.0,Pass
+153,Deepa Nair,Male,C,Post Graduate,6.0,83.9,99,83,95,92.3,Pass
+154,Deepa Menon,Male,C,Graduate,3.3,79.1,83,86,56,75.0,Pass
+155,Divya Pillai,Male,B,Post Graduate,1.0,90.8,61,77,57,65.0,Pass
+156,Anitha Reddy,Female,B,Graduate,5.3,95.3,95,92,91,92.7,Pass
+157,Suresh Rao,Male,B,Graduate,4.4,83.1,95,87,79,87.0,Pass
+158,Karthik Das,Female,A,Graduate,7.3,85.6,100,100,99,99.7,Pass
+159,Priya Rao,Male,A,Post Graduate,1.2,72.6,70,67,64,67.0,Pass
+160,Divya Sharma,Female,A,Graduate,9.0,85.2,100,100,90,96.7,Pass
+161,Arun Rao,Male,C,High School,6.9,82.0,100,100,100,100.0,Pass
+162,Vikram Kumar,Male,B,High School,4.0,69.1,78,78,72,76.0,Pass
+163,Karthik Iyer,Female,C,High School,3.5,79.8,85,86,70,80.3,Pass
+164,Kavya Nair,Female,A,High School,2.7,75.4,77,85,73,78.3,Pass
+165,Karthik Sharma,Female,B,High School,4.2,72.7,85,87,79,83.7,Pass
+166,Ajay Pillai,Male,C,Graduate,3.7,66.2,98,78,83,86.3,Pass
+167,Pooja Kumar,Female,B,Graduate,4.9,80.8,88,94,86,89.3,Pass
+168,Nisha Iyer,Male,C,Graduate,3.5,70.6,75,73,83,77.0,Pass
+169,Kavya Nair,Male,B,Post Graduate,6.5,74.3,90,95,83,89.3,Pass
+170,Nisha Iyer,Female,A,Graduate,4.2,92.9,77,81,85,81.0,Pass
+171,Arun Raj,Female,A,Graduate,3.5,87.6,74,86,70,76.7,Pass
+172,Arun Das,Male,B,Post Graduate,5.8,68.3,87,92,86,88.3,Pass
+173,Naveen Iyer,Male,C,Graduate,1.1,84.2,77,60,65,67.3,Pass
+174,Kavya Pillai,Female,A,High School,4.6,81.6,89,88,82,86.3,Pass
+175,Deepa Rao,Female,A,High School,4.0,100.0,92,94,84,90.0,Pass
+176,Ravi Nair,Female,A,High School,1.5,96.6,72,89,77,79.3,Pass
+177,Arun Kumar,Male,B,High School,0.9,61.6,62,67,45,58.0,Pass
+178,Divya Menon,Male,B,High School,5.8,90.3,100,81,85,88.7,Pass
+179,Naveen Rao,Male,C,Post Graduate,5.7,95.2,84,100,92,92.0,Pass
+180,Priya Nair,Male,C,Post Graduate,4.3,86.7,98,100,73,90.3,Pass
+181,Sanjay Menon,Male,C,High School,7.1,76.0,83,93,95,90.3,Pass
+182,Ganesh Nair,Male,B,High School,4.8,100.0,96,100,89,95.0,Pass
+183,Karthik Das,Female,B,High School,6.2,87.8,100,99,82,93.7,Pass
+184,Ganesh Sharma,Male,C,Graduate,4.8,100.0,100,100,78,92.7,Pass
+185,Naveen Pillai,Male,C,Graduate,3.5,96.2,89,89,61,79.7,Pass
+186,Manoj Pillai,Male,B,Post Graduate,2.1,85.6,90,67,61,72.7,Pass
+187,Vikram Das,Female,C,Graduate,2.9,73.0,70,74,72,72.0,Pass
+188,Anitha Nair,Male,A,Post Graduate,3.5,79.7,85,80,78,81.0,Pass
+189,Pooja Iyer,Male,B,Post Graduate,6.5,77.3,100,99,93,97.3,Pass
+190,Deepa Iyer,Female,C,High School,5.4,65.4,85,98,76,86.3,Pass
+191,Manoj Raj,Male,B,Post Graduate,4.6,87.8,87,84,85,85.3,Pass
+192,Kavya Menon,Male,A,Graduate,5.6,98.8,96,100,96,97.3,Pass
+193,Ravi Sharma,Male,B,Graduate,4.9,76.4,90,87,73,83.3,Pass
+194,Swathi Pillai,Male,B,Graduate,4.5,100.0,98,96,89,94.3,Pass
+195,Pooja Rao,Male,B,Post Graduate,1.3,61.3,62,62,65,63.0,Pass
+196,Priya Das,Female,B,Graduate,6.1,92.7,100,100,90,96.7,Pass
+197,Manoj Sharma,Female,A,Post Graduate,3.2,100.0,70,85,90,81.7,Pass
+198,Suresh Kumar,Female,B,Post Graduate,6.0,77.6,95,100,85,93.3,Pass
+199,Karthik Menon,Male,B,Graduate,6.1,77.8,89,100,83,90.7,Pass
+200,Anitha Iyer,Male,C,Post Graduate,2.8,92.5,83,78,81,80.7,Pass
+201,Divya Menon,Male,B,Graduate,5.7,86.1,100,100,100,100.0,Pass
+202,Deepa Iyer,Female,C,Graduate,3.4,56.0,72,76,70,72.7,Pass
+203,Karthik Raj,Male,A,Graduate,3.4,69.9,82,80,78,80.0,Pass
+204,Ajay Pillai,Male,A,High School,4.5,79.8,96,81,78,85.0,Pass
+205,Kavya Pillai,Female,A,Graduate,4.5,63.6,82,79,67,76.0,Pass
+206,Naveen Nair,Male,A,Graduate,4.1,74.3,75,78,79,77.3,Pass
+207,Ravi Rao,Female,C,Graduate,1.6,63.9,51,65,65,60.3,Pass
+208,Meena Nair,Female,B,Post Graduate,3.8,75.6,82,87,74,81.0,Pass
+209,Deepa Menon,Female,A,High School,8.1,76.0,100,100,100,100.0,Pass
+210,Vikram Pillai,Male,B,Graduate,0.5,84.2,55,76,57,62.7,Pass
+211,Meena Nair,Male,C,Graduate,5.6,78.9,100,87,80,89.0,Pass
+212,Kavya Sharma,Male,C,Post Graduate,5.9,86.0,95,100,99,98.0,Pass
+213,Ganesh Reddy,Male,C,Graduate,1.6,84.6,57,60,77,64.7,Pass
+214,Manoj Iyer,Male,A,Post Graduate,3.2,92.4,93,76,74,81.0,Pass
+215,Lakshmi Reddy,Male,B,Post Graduate,2.2,90.5,85,86,87,86.0,Pass
+216,Ganesh Iyer,Male,B,High School,7.3,89.2,93,100,97,96.7,Pass
+217,Manoj Rao,Female,B,High School,6.0,100.0,99,97,96,97.3,Pass
+218,Suresh Pillai,Male,C,Graduate,6.1,84.2,95,82,91,89.3,Pass
+219,Nisha Nair,Female,A,Graduate,4.2,100.0,100,85,91,92.0,Pass
+220,Swathi Sharma,Male,C,High School,6.4,84.9,100,100,95,98.3,Pass
+221,Pooja Rao,Male,C,Graduate,4.0,79.0,72,73,81,75.3,Pass
+222,Swathi Reddy,Male,B,Graduate,6.4,75.5,100,97,82,93.0,Pass
+223,Priya Pillai,Female,C,Graduate,3.7,98.1,78,98,70,82.0,Pass
+224,Swathi Menon,Female,B,Graduate,2.8,99.7,81,77,88,82.0,Pass
+225,Anitha Kumar,Female,A,Graduate,7.3,87.2,100,100,94,98.0,Pass
+226,Swathi Pillai,Female,B,Graduate,4.0,93.6,84,80,83,82.3,Pass
+227,Deepa Das,Male,A,Graduate,2.4,64.7,77,60,69,68.7,Pass
+228,Divya Rao,Female,B,High School,2.4,61.4,81,73,78,77.3,Pass
+229,Ajay Das,Male,C,Graduate,2.4,95.0,68,79,77,74.7,Pass
+230,Ajay Iyer,Male,C,Graduate,5.5,78.5,99,100,83,94.0,Pass
+231,Swathi Iyer,Female,A,Post Graduate,3.8,89.0,80,100,77,85.7,Pass
+232,Manoj Rao,Female,A,Graduate,8.1,71.4,100,94,98,97.3,Pass
+233,Suresh Reddy,Female,A,Post Graduate,6.1,99.9,100,100,89,96.3,Pass
+234,Ajay Kumar,Female,B,Graduate,4.5,61.5,74,73,77,74.7,Pass
+235,Ganesh Iyer,Female,B,High School,6.5,63.4,100,100,87,95.7,Pass
+236,Ajay Rao,Female,A,Post Graduate,3.1,97.3,90,82,93,88.3,Pass
+237,Divya Menon,Female,C,Graduate,0.7,48.7,50,54,52,52.0,Pass
+238,Manoj Pillai,Female,B,Graduate,2.2,84.5,85,64,56,68.3,Pass
+239,Meena Kumar,Male,B,High School,4.3,78.7,76,83,100,86.3,Pass
+240,Manoj Pillai,Female,B,Graduate,3.6,71.2,90,80,82,84.0,Pass
+241,Vikram Rao,Female,A,Graduate,5.5,77.6,78,100,100,92.7,Pass
+242,Ajay Raj,Male,A,Graduate,3.8,69.8,100,74,66,80.0,Pass
+243,Ravi Rao,Female,A,Post Graduate,5.3,98.5,95,94,90,93.0,Pass
+244,Naveen Reddy,Male,A,High School,6.7,100.0,99,100,100,99.7,Pass
+245,Meena Iyer,Male,A,Graduate,3.8,71.8,79,74,80,77.7,Pass
+246,Kavya Nair,Female,C,Graduate,5.0,83.3,84,100,88,90.7,Pass
+247,Karthik Kumar,Male,C,High School,0.8,64.1,62,59,40,53.7,Pass
+248,Ajay Pillai,Male,A,Graduate,3.8,92.9,98,89,68,85.0,Pass
+249,Arun Kumar,Male,B,Graduate,1.8,92.6,66,77,84,75.7,Pass
+250,Karthik Das,Male,A,Graduate,4.3,76.5,90,80,93,87.7,Pass
+251,Manoj Iyer,Female,C,High School,4.4,80.2,75,90,81,82.0,Pass
+252,Priya Raj,Male,C,Graduate,4.4,78.9,95,81,92,89.3,Pass
+253,Ajay Sharma,Female,B,High School,3.1,60.6,76,69,61,68.7,Pass
+254,Sanjay Iyer,Male,C,Post Graduate,8.1,98.6,100,100,100,100.0,Pass
+255,Karthik Menon,Male,A,High School,1.7,70.8,66,69,56,63.7,Pass
+256,Pooja Das,Male,B,Graduate,1.6,70.9,63,66,57,62.0,Pass
+257,Arun Raj,Male,A,Post Graduate,7.0,78.2,100,93,100,97.7,Pass
+258,Priya Menon,Female,A,Graduate,2.7,91.9,69,72,69,70.0,Pass
+259,Ganesh Reddy,Female,B,Post Graduate,2.3,72.9,57,74,86,72.3,Pass
+260,Arun Kumar,Male,A,High School,8.1,56.6,100,100,97,99.0,Pass
+261,Anitha Sharma,Male,C,Post Graduate,5.8,69.4,90,84,94,89.3,Pass
+262,Arun Nair,Female,A,Graduate,2.9,85.1,83,72,79,78.0,Pass
+263,Swathi Reddy,Male,B,Graduate,4.4,100.0,100,94,97,97.0,Pass
+264,Anitha Sharma,Male,B,High School,7.5,64.9,100,100,86,95.3,Pass
+265,Ganesh Das,Male,B,High School,5.2,64.4,96,75,92,87.7,Pass
+266,Kavya Iyer,Female,A,High School,6.3,61.8,97,95,87,93.0,Pass
+267,Lakshmi Pillai,Female,B,Graduate,5.4,60.4,92,83,90,88.3,Pass
+268,Divya Menon,Female,B,Post Graduate,5.7,94.5,99,100,81,93.3,Pass
+269,Ganesh Rao,Male,A,Graduate,4.1,97.9,94,93,87,91.3,Pass
+270,Suresh Menon,Male,C,High School,4.0,82.1,86,89,81,85.3,Pass
+271,Vikram Menon,Female,A,Post Graduate,4.5,74.4,89,90,75,84.7,Pass
+272,Karthik Raj,Female,B,Graduate,5.3,100.0,98,89,95,94.0,Pass
+273,Swathi Pillai,Female,B,Graduate,3.5,82.1,88,97,90,91.7,Pass
+274,Ganesh Sharma,Female,A,High School,4.2,93.1,84,77,79,80.0,Pass
+275,Nisha Iyer,Male,C,Graduate,3.4,73.8,79,85,82,82.0,Pass
+276,Swathi Menon,Female,B,High School,4.2,80.5,96,91,71,86.0,Pass
+277,Arun Kumar,Male,B,Graduate,1.7,65.2,58,61,80,66.3,Pass
+278,Lakshmi Nair,Female,B,Post Graduate,8.7,87.6,100,100,100,100.0,Pass
+279,Sanjay Nair,Male,A,High School,2.7,82.3,80,74,87,80.3,Pass
+280,Lakshmi Kumar,Female,B,Graduate,3.3,69.3,75,71,78,74.7,Pass
+281,Meena Kumar,Female,C,High School,2.5,69.4,80,75,71,75.3,Pass
+282,Suresh Rao,Female,B,Graduate,5.1,99.4,96,89,97,94.0,Pass
+283,Pooja Nair,Female,B,Graduate,3.6,100.0,83,86,82,83.7,Pass
+284,Arun Raj,Male,C,Graduate,2.3,77.4,72,68,57,65.7,Pass
+285,Swathi Rao,Female,B,Graduate,5.2,80.8,100,90,89,93.0,Pass
+286,Ganesh Reddy,Male,A,Graduate,5.4,84.8,100,99,82,93.7,Pass
+287,Suresh Raj,Male,A,Graduate,3.9,81.8,65,80,71,72.0,Pass
+288,Manoj Pillai,Male,A,Graduate,2.8,59.9,72,69,72,71.0,Pass
+289,Priya Kumar,Male,C,Graduate,7.9,85.1,100,100,99,99.7,Pass
+290,Naveen Iyer,Female,B,Graduate,4.6,54.9,81,92,83,85.3,Pass
+291,Vikram Pillai,Male,A,Graduate,1.7,71.2,62,70,58,63.3,Pass
+292,Pooja Pillai,Male,C,Graduate,6.5,86.1,100,100,90,96.7,Pass
+293,Ganesh Reddy,Male,B,Graduate,2.5,87.2,87,82,83,84.0,Pass
+294,Kavya Menon,Female,C,Post Graduate,8.9,70.3,96,100,100,98.7,Pass
+295,Nisha Das,Female,A,Graduate,4.1,74.5,77,90,66,77.7,Pass
+296,Ravi Rao,Female,A,High School,5.8,72.9,93,97,89,93.0,Pass
+297,Anitha Das,Female,A,Graduate,0.5,78.8,69,49,73,63.7,Pass
+298,Deepa Kumar,Male,C,Graduate,1.7,79.7,70,58,63,63.7,Pass
+299,Divya Reddy,Male,C,Post Graduate,6.4,88.0,97,98,99,98.0,Pass
+300,Suresh Rao,Female,A,High School,4.6,73.8,92,76,74,80.7,Pass
