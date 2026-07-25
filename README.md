@@ -1,13 +1,13 @@
-🎓 Student Performance Analysis using Python:
+## 🎓 Student Performance Analysis using Python:
 
 A data analysis and machine learning project built with Python & Streamlit to explore, visualize, and predict student academic performance based on study hours, attendance, and other key factors.
 
-📌 Project Overview:
+## 📌 Project Overview:
 
 Student academic performance is influenced by multiple factors such as study habits, attendance, and parental education background. This project analyzes a student dataset to uncover patterns and trends, and builds a simple Machine Learning model to predict a student's average score.
 
 The project is delivered as an interactive Streamlit web application, allowing users to:
-
+```
 *Explore the dataset visually.
 
 *Filter data by section and gender.
@@ -17,9 +17,10 @@ The project is delivered as an interactive Streamlit web application, allowing u
 *Predict average scores using a trained ML model. 
 
 *Upload their own dataset (CSV) for custom analysis.
+```
 
-🛠️ Tools:  
-
+## 🛠️ Tools:  
+```
 Python – Programming language
 
 Streamlit – Web app framework
@@ -35,14 +36,15 @@ VS Code – Development environment
 Git & GitHub – Version control
 
 Streamlit Community Cloud – Deployment
+```
 
-📁 Dataset:
+## 📁 Dataset:
 
-*The dataset (students.csv) contains information of 300 students with the following columns:
+*The dataset (students.csv) contains information of 300 students with the following columns.
 
 *A synthetic dataset is included (generate_dataset.py) to regenerate sample data if needed.
 
-⚙️ Project Workflow: 
+## ⚙️ Project Workflow: 
 
 1.Data Collection – Load dataset (built-in sample or user-uploaded CSV)
 
@@ -58,7 +60,7 @@ Streamlit Community Cloud – Deployment
 
 7.Deployment – Build an interactive dashboard using Streamlit and deploy on Streamlit Community Cloud
 
-📊 Dashboard:
+## 📊 Dashboard:
 
 The Streamlit dashboard includes:
 
@@ -72,11 +74,11 @@ The Streamlit dashboard includes:
 
 Then open http://localhost:8501 in your browser.
 
-Live Deployment:
+## 🤖 Live Deployment:
 
 Deployed for free on Streamlit Community Cloud.
 
-👤 Author:
+## 👤 Author:
 
 [sujitha kannan] 
 
